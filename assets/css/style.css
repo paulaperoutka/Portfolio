@@ -1,0 +1,144 @@
+/*Coffee cup basket*/
+/*https://tinyurl.com/ycjdug54*/
+
+/*Slate*/
+/*https://tinyurl.com/y8q5g2wa*/
+
+/*Silk*/
+/*color: #DED2C3;*/
+/*color: #373737;*/
+/*ultramarine*/
+/*color: #031424;*/
+/*Butter*/
+/*	color: #F2D388;*/
+
+
+/*font-family: 'Poiret One', cursive;*/
+/*font-family: 'Cabin Sketch', cursive;*/
+/*font-family: 'Fredericka the Great', cursive;*/
+/*font-family: 'Princess Sofia', cursive;*/
+/*font-family: 'Mountains of Christmas', cursive;*/
+/*font-family: 'Henny Penny', cursive;*/
+/*font-family: 'Griffy', cursive;*/
+
+
+
+html {
+  /*background-color: #F1FFFE;*/
+}
+
+body {
+	background-image: url("https://tinyurl.com/ycjdug54");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /*background-color: #D5D5D5;*/
+  /*dusty rose*/
+  /*background-color: #B6A19E;*/
+  background-color: #F4F4F4;
+	font-family: 'Fredericka the Great', cursive;
+
+}
+
+.navbar {
+	background: none;
+/*	font-family: 'Alex Brush', cursive;*/
+	color: #1A2930;
+}
+
+#bootstrap-overrides {
+	color: #1A0315;
+	text-align: right;
+}
+
+#navbarToggler {
+	justify-content: right;
+}
+
+.wrapper {
+	background-image: url("https://tinyurl.com/ycjdug54");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#splash-name {
+	/*font-family: 'Meddon', cursive;*/
+/*	font-family: 'Alex Brush', cursive;*/
+	font-size: 80px;
+	color: #f2c388;
+	cursor: pointer;
+	display: none;
+	margin-top: 40px;
+	margin-left: 40px;
+	position: fixed;
+}
+
+
+
+@media (min-width: 576px) { 
+	#splash-name {
+		margin: 0 0 40px 40px;
+	}
+}
+/*
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
+
+
+
+/*font-family: 'Satisfy', cursive;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Sorts Mill Goudy', serif;
+font-family: 'Glegoo', serif;
+font-family: 'Enriqueta', serif;
+font-family: 'Julius Sans One', sans-serif;
+font-family: 'Arima Madurai', cursive;
+font-family: 'Forum', cursive;
+font-family: 'Alex Brush', cursive;
+font-family: 'Allura', cursive;
+font-family: 'Niconne', cursive;
+font-family: 'Lustria', serif;
+font-family: 'Marcellus SC', serif;
+font-family: 'Yatra One', cursive;
+font-family: 'Cormorant', serif;
+font-family: 'Oranienbaum', serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Rochester', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Italianno', cursive;
+font-family: 'Nixie One', cursive;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Aclonica', sans-serif;
+font-family: 'Petit Formal Script', cursive;
+font-family: 'Pompiere', cursive;
+font-family: 'Zeyada', cursive;
+font-family: 'Kristi', cursive;
+font-family: 'Emilys Candy', cursive;
+font-family: 'Meddon', cursive;
+font-family: 'Euphoria Script', cursive;
+font-family: 'Italiana', serif;
+font-family: 'Vesper Libre', serif;
+font-family: 'Aref Ruqaa', serif;
+font-family: 'Life Savers', cursive;
+font-family: 'Suranna', serif;
+font-family: 'Mystery Quest', cursive;
+font-family: 'Mountains of Christmas', cursive;
+font-family: 'Sail', cursive;
+font-family: 'Kranky', cursive;
+font-family: 'Henny Penny', cursive;
+font-family: 'Bellefair', serif;
+font-family: 'Junge', serif;
+font-family: 'Princess Sofia', cursive;
+font-family: 'Milonga', cursive;
+font-family: 'IM Fell French Canon', serif;
+font-family: 'Jacques Francois', serif;
+font-family: 'Mr Bedfort', cursive;*/
